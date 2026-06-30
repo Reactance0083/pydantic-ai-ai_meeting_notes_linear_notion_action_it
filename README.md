@@ -1,3 +1,5 @@
+> **Commercial status:** Archived preview. This repository is kept for reference and is not an active commercial product.
+
 # AI Meeting Notes → Linear/Notion Action Items
 
 A FastAPI + pydantic-ai template that ingests meeting audio or raw transcript text, extracts structured action items via an LLM agent, and batch-creates Linear issues or Notion database rows — with field-level validation, deduplication, and retry logic built in.
